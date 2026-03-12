@@ -195,7 +195,7 @@
 ___         _ Q          _ W          _ E          _ R         _ T             _ Y          _ U          _ I          _ O          _ P         ___
 ___         _ A          _ S          _ D          _ F         _ G             _ H          _ J          _ K          _ L          _ SEMI         ___
 ___         _ Z          _ X          _ C          _ V         _ B             _ N          _ M          _ COMMA      _ DOT        _ FSLH         ___
-                          _ CAPS       _ SPACE     &la NAV         &la SYM      _ LSFT       &mo ALT
+                          _ GRAVE       _ SPACE     &la NAV         &la SYM      _ LSFT       &mo ALT
             >;
         };
 
